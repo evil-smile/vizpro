@@ -17,3 +17,7 @@ Voici quelques-unes des techniques couramment utilisées dans l'analyse descript
 5. Analyses bivariées : Les analyses bivariées examinent les relations entre deux variables, en utilisant des techniques telles que les matrices de corrélation, les tableaux croisés, les diagrammes de dispersion, etc.
 
 L'analyse descriptive est souvent utilisée comme première étape dans l'analyse de données, car elle permet de mieux comprendre les caractéristiques fondamentales des données avant d'effectuer des analyses plus avancées ou des prises de décision. Elle est largement utilisée dans de nombreux domaines, tels que la recherche, les sciences sociales, l'économie, la santé, le marketing, etc.
+
+![Capture d'écran 2023-10-22 123210](https://github.com/evil-smile/vizpro/assets/120361378/37eb53e6-e57d-4cb1-bcf7-98d22fd8b1ca)
+![Capture d'écran 2023-10-22 123248](https://github.com/evil-smile/vizpro/assets/120361378/1a2711e9-e59c-4234-8c5b-8fc5e7118548)
+![Capture d'écran 2023-10-22 123052](https://github.com/evil-smile/vizpro/assets/120361378/52807bf1-ca32-4515-a609-c082c55a7978)
